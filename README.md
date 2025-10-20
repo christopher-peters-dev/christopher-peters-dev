@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack & Tools
 
 **Frontend:**  
-- HTML • CSS • JavaScript • TypeScript • React • Angular • Redux • Chakra UI • Tailwind CSS  
+- HTML • CSS • JavaScript • TypeScript • React • Angular • Redux • Chakra UI • Tailwind CSS  • Shadcn UI
 
 **Backend:**  
 - NodeJs • ExpressJs • Python • Django • Flask (mid-level)  
