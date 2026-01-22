@@ -14,7 +14,7 @@
 - NodeJs • ExpressJs • PHP • Laravel • Python • Django • Flask (mid-level)  
 
 **Other Skills:**  
-- Git & GitHub • REST APIs • SQL • Agile / Scrum • UI/UX collaboration  
+- REST APIs • SQL • Agile / Scrum • UI/UX collaboration  
 
 ---
 
