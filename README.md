@@ -11,7 +11,7 @@
 - HTML • CSS • JavaScript • TypeScript • React • Angular • Redux • Chakra UI • Tailwind CSS  • Shadcn UI
 
 **Backend:**  
-- NodeJs • ExpressJs • PHP • Laravel • Python • Django • Flask (mid-level)  
+- NodeJs • ExpressJs 
 
 **Other Skills:**  
 - REST APIs • SQL • Agile / Scrum • UI/UX collaboration  
