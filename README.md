@@ -1,6 +1,6 @@
 # Hi am Christopher Peters,
 
-🚀 **Lead UI Developer** with 14+ years of experience in building scalable, user-friendly web applications.  
+🚀 **Lead UI Developer** with 16+ years of experience in building scalable, user-friendly web applications.  
 🖥️ Passionate about **frontend engineering**, expanding into **full-stack (Python/Django)**, and exploring **AI integrations**.  
 
 ---
