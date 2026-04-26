@@ -19,7 +19,7 @@
 ---
 
 ## 📚 Current Focus
-- Building **full-stack apps** with Django + React  
+- Building **full-stack apps** with Node + React  
 - Exploring **AI/LLM integrations** for developer tools  
 - Expanding portfolio projects for **open source & personal growth**  
 
